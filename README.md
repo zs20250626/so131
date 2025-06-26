@@ -61,4 +61,4 @@ Telegram频道传送门：收录优质 Telegram 频道链接，覆盖资讯、�
 
 社会影响：
 《黑料大事记》以时间轴方式系统梳理娱乐圈与网红界的重要爆料，从初始曝光到舆论发酵，记录每一场话题事件的核心脉络，是理解网络文化变迁与圈层生态的重要参考资料。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zs20250626/so131）</span>
